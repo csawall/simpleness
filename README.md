@@ -3,4 +3,4 @@ The goal of this project was to create an easy to install app with a simple inte
 
 8/14/06 - I just opened this project on Google. As soon as I'm done testing the code for version 1.2, I will post it on the home page (link on right). As soon as Google hosts tarballs for projects, I will host the files here.
 
-8/19/07 - Version 2.0 is complete. http://simpleness.stlsawall.com
+8/19/07 - Version 2.0 is complete. Site shutdown (http://simpleness.stlsawall.com) and files archived to "web" folder in this repo.
